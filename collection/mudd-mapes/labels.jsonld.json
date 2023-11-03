@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1202971",
+    "http://schema.org/name": "California--Colusa County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206576",
+    "http://schema.org/name": "California--Stockton"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1215707",
+    "http://schema.org/name": "California--Glenn County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800949",
+    "http://schema.org/name": "Agricultural laborers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801054",
+    "http://schema.org/name": "Agricultural machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801355",
+    "http://schema.org/name": "Agriculture"
+  }
+]
