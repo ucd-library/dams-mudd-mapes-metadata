@@ -38,7 +38,10 @@
     "@value": "2023"
   },
   "schema:description": "These photographs are part of a small collection that contains correspondence by George and James Mudd, notes and clippings on the history of the Mudd and Mapes families, and family photographs including one of the Caterpillar School in Stockton, California and several of the steam combine invented by George Stockton Berry and owned by George Mudd.\n\n A full inventory of the collection is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/kt609nf5xq/).",
-  "schema:identifier": "MC-194",
+  "schema:identifier": [
+    "MC-194",
+    "ark:/87293/d34t6f952"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d30z7121j/mc194_3.tif"
   },
